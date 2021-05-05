@@ -10,3 +10,8 @@ class Human:
 
 h1 = Human("Pratiksha", 23)
 h1.method()
+
+h1.name = "Shree"
+h1.age = 26
+
+h1.method()
